@@ -17,7 +17,7 @@ import java.util.concurrent.CopyOnWriteArraySet;
 
 /**
  * @author TuMinglong
- * @Description 页面推送11111消息
+ * @Description 页面推送消息
  * @date 2018/6/28 21:19
  */
 
